@@ -12,7 +12,7 @@ server:
 config:
   app-id:wxc22f095df911a8dd
   app-secret:da2e6fc9061ee6ea2597723eefeec074
-  template-id:
+  template-id:5_QPxLf2vU8mlYm9aMcq8KCxYM7hzJwPT0p8iZ6P1UQ
   wechat-number:o-TSp5lMZ_jiMZbZlCrjqpGL_HKs,o-TSp5ieHEAJoh2-_8k-Ggtpg5v8
   birthday:2001-11-16
   city-code:{
