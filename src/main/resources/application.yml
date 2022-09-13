@@ -10,10 +10,15 @@ server:
     connection-timeout: 5000ms # 连接超时
 
 config:
-  app-id:
-  app-secret:
+  app-id:wxc22f095df911a8dd
+  app-secret:da2e6fc9061ee6ea2597723eefeec074
   template-id:
-  wechat-number:
-  birthday:
-  city-code:
+  wechat-number:o-TSp5lMZ_jiMZbZlCrjqpGL_HKs,o-TSp5ieHEAJoh2-_8k-Ggtpg5v8
+  birthday:2001-11-16
+  city-code:{
+        "cityName": "郴州",
+        "province": "湖南",
+        "cityPinyin": "chenzhou",
+        "cityCode": "101250501"
+    }
   constellation-key:
